@@ -249,3 +249,9 @@ section#contact {
     right: 1rem;
   }
 }
+
+@media (max-width: 390px) {
+  h1{
+    font-size: 1.0rem;
+  }
+}
